@@ -1,0 +1,54 @@
+@charset "utf-8";
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    text-align: center;
+}
+header h1 {
+    color: #6C563B;
+    border-radius: 13px;
+    background-color: #BDB4AD;
+}
+main article h2 {
+    color: #917450;
+    background-color: #BDB4AD;
+    border-radius: 13px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+main article h3 {
+    color: #917450;
+    border-radius: 13px;
+    background-color: #BDB4AD;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+main article p {
+
+
+
+}
+
+
+
+main article h1 {
+    color: #917450;
+    background-color: #BDB4AD;
+    background-image: url(url);
+    width: 1000px;
+    border-radius: 13px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+nav a:link {
+    text-decoration: none;
+    color: #644F36;
+}
+nav a:active {
+    color: #AE8A5E;
+}
+nav a:visited {
+    color: #AEA3A7;
+}
